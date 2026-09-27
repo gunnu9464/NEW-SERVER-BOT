@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ImNotPlayer",
+    "username": "AserverBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "RGBoneblock.aternos.me",
-    "port": 61926,
+    "ip": "brooklynsmp.aternos.me",
+    "port": 50844,
     "version": "",
     "try-creative": false
   },
